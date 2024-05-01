@@ -1,1 +1,5 @@
+"Sentinel" is an innovative mobile application meticulously crafted with your safety as the top priority. Developed using React Native, it harnesses cutting-edge technology to provide a robust suite of safety features, including real-time car crash detection, earthquake alerts, and an SOS system.
 
+Car Crash Detection: Sentinel employs state-of-the-art algorithms to detect car crashes in real-time. Upon detection, it swiftly notifies your emergency contacts, ensuring prompt assistance when you need it most.
+Earthquake Alerts: Living in earthquake-prone regions can be unnerving, but with Sentinel, you're always prepared. Utilizing seismic data, the app delivers instant alerts, giving you crucial time to take necessary precautions and stay safe.
+SOS System: When facing emergencies, every second counts. Sentinel's SOS system is your lifeline, allowing you to quickly summon help with a simple tap. Emergency services and your designated contacts are immediately alerted, ensuring swift response to your distress call.
